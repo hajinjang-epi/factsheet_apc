@@ -1,0 +1,26 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA alco
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote alco (8 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC GENMOD data=alco
+
+NOTE: PROC GENMOD using R wrapper
+NOTE: 
+NOTE: Response Variable: DR_HIGH_RISK
+NOTE: Distribution: POISSON
+NOTE: Link Function: LOG
+NOTE: Number of Observations: 8
+NOTE:   Model fitted successfully with 8 observations
+NOTE: ODS plot written: genmod_residuals_vs_predicted.spec.json
+NOTE: ODS plot written: genmod_residual_histogram_panel.spec.json
+NOTE: ODS plot written: genmod_residuals_vs_obs_order.spec.json
+NOTE: ODS plot written: genmod_qq_plot.spec.json
+NOTE: PROC GENMOD ODS Graphics generated.

@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-14T14:11:59Z",
+  "_captured_run_id": "r_9da6d9d653864050947bce2e7c07599b",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote apc7 (8 rows, 13 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: Option OBS changed to 100."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

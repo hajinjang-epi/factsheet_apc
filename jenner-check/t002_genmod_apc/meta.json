@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_genmod_apc",
+  "source_file": "apc_10082019.sas",
+  "source_blob_sha": "a3ecca50c017fcc8f33957fdf3116c522e52c97c",
+  "source_commit": "de2aaa9d43bfd81fb5e6519020358ad50d99e776",
+  "notes": "Author's log-link Poisson APC regression with class reference levels and LSMEANS over age categories; mock alco built to the classed columns because the source data is external-libname."
+}

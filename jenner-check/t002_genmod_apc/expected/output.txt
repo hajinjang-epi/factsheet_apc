@@ -1,0 +1,31 @@
+        The GENMOD Procedure        
+         Model Information          
+
+Item                           Value
+----------------------  ------------
+Response Variable       dr_high_risk
+Distribution                 poisson
+Link Function                    log
+Number of Observations             8
+
+    Analysis of Maximum Likelihood Parameter Estimates    
+
+Parameter    Estimate    Std Error  Chi-Square  Pr > ChiSq
+-----------  --------  -----------  ----------  ----------
+(Intercept)    0.0000       1.0000      0.0000      1.0000
+c1960          0.0000       1.4142      0.0000      1.0000
+c1970          0.0000       1.4142      0.0000      1.0000
+c1980        -24.3026  114839.7028      0.0000      0.9998
+c1985          0.0000       1.4142      0.0000      1.0000
+c1990        -24.3026  114839.7028      0.0000      0.9998
+c1995        -24.3026  114839.7028      0.0000      0.9998
+agecat4      -24.3026  114839.7028      0.0000      0.9998
+
+Criteria for Assessing Goodness of Fit
+
+Criterion          Value
+--------------  --------
+Deviance          0.0000
+Log Likelihood   -4.0000
+AIC              24.0000
+BIC              24.6355

@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_birth_cohort_categ",
+  "source_file": "apc_10082019.sas",
+  "source_blob_sha": "a3ecca50c017fcc8f33957fdf3116c522e52c97c",
+  "source_commit": "de2aaa9d43bfd81fb5e6519020358ad50d99e776",
+  "notes": "Author's five-year birth-cohort bins, 5/10-year age categories, and centered/squared age terms, then the author's FREQ and MEANS checks; mock apc7 supplies id year age sex smk."
+}
