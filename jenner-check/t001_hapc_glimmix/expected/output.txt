@@ -1,0 +1,32 @@
+     The GLIMMIX Procedure      
+       Model Information        
+
+Item                       Value
+----------------------  --------
+Distribution              binary
+Link Function           identity
+Estimation Technique        rspl
+Number of Observations         8
+
+       Number of Observations        
+
+Description                     Value
+---------------------------  --------
+Number of Observations Read         8
+Number of Observations Used         8
+
+                     Solutions for Fixed Effects                      
+
+Effect     Estimate  Std Error   t Value  Pr > |t|     Lower     Upper
+---------  --------  ---------  --------  --------  --------  --------
+Intercept    0.2958     0.2437      1.21    0.2249   -0.1820    0.7735
+age_c       -0.0066     0.0142     -0.46    0.6439   -0.0344    0.0213
+age_c2       0.0016     0.0011      1.41    0.1576   -0.0006    0.0038
+
+      Fit Statistics       
+
+Statistic             Value
+-----------------  --------
+-2 Log Likelihood    9.4775
+AIC                 15.4775
+BIC                 15.7158

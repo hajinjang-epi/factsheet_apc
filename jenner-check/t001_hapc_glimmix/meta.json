@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_hapc_glimmix",
+  "source_file": "apc_10082019.sas",
+  "source_blob_sha": "a3ecca50c017fcc8f33957fdf3116c522e52c97c",
+  "source_commit": "de2aaa9d43bfd81fb5e6519020358ad50d99e776",
+  "notes": "Author's cross-classified random-effects logistic model of current smoking (SMK) on centered age, random YEAR and COHORT_CAT5; mock apc1 built to the columns the model reads because a.apcupdate is not in the repo."
+}

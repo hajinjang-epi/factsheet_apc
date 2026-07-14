@@ -1,0 +1,16 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA apc1
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote apc1 (8 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC GLIMMIX data=apc1
+
+NOTE: Using Python wrapper for PROC GLIMMIX
+NOTE: PROC GLIMMIX results written to: ./ods_output/glimmix_binary.spec.json
